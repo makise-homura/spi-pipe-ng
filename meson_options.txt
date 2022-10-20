@@ -1,0 +1,1 @@
+option('static', type : 'feature', value : 'disabled', description : 'Build spi-pipe-ng statically')
